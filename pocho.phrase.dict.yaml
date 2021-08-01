@@ -1,0 +1,18 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Pocho - 甫草音短語詞庫
+#
+# 碼表製作與校對人員
+# Kokoromimi Noroki <kokoromimin@gmail.com>
+
+---
+name: pocho.phrase
+version: "2021.8.1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 甫草音短語詞庫
+登工	dang4 gung1
+喫X飯	jaak3 faan6

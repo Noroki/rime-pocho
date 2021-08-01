@@ -1,0 +1,59 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Pocho - 甫草音地名詞庫
+#
+# 碼表製作與校對人員
+# Kokoromimi Noroki <kokoromimin@gmail.com>
+
+---
+name: pocho.places
+version: "2021.8.1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 甫草音地名詞庫
+古遺	gu1 wai4
+南塘	naam4 dong4 1%
+南塘	naam4 tong4
+篁竹園	wong4 zhy1 hyn4
+簕竹園頭	lat5 zhy1 hyn4 tau4
+甫草	pou2 cou2
+泮逕	bun3 gaang3
+永安	wing5 ngyun1
+永安	wing5 ngyun1
+貝水	bu3 sui2
+山化	saan1 waa3
+
+
+# 甫草話詞庫
+簕溪
+434縣道
+蓮塘
+依坑
+古遺
+彭東洲
+南塘
+龍家園
+崖洲
+蒼南
+篁竹園
+簕竹園頭
+雙魚洲
+雙布
+豬仔崗
+朱仔崗
+朱紫崗
+甫草
+福鍾崗
+泮逕
+舊屋
+牌樓
+鍾文
+永安
+石溪 
+桂溪
+貝水
+沙浦
+山化

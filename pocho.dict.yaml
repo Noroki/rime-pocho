@@ -1,0 +1,28 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Pocho - 甫草音詞庫
+#
+# 碼表製作與校對人員
+# Kokoromimi Noroki <kokoromimin@gmail.com>
+
+---
+name: pocho
+version: "2021.8.1"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - jyut6ping3
+  - jyut6ping3.lettered
+  - jyut6ping3.maps
+  - jyut6ping3.phrase
+  - pocho.places
+  - pocho.phrase
+...
+
+最	zui3
+安	ngyun1
+貝	bu3
+塘	dong4
+化	waa3
+登	dang4
