@@ -1,0 +1,7 @@
+patch:
+  schema_list:
+    - schema: luna_pinyin
+    - schema: jyut6ping3
+    - schema: pocho
+    - schema: langjin
+    - schema: blg_tai
